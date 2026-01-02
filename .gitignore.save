@@ -124,4 +124,5 @@ Secrets.*
 .env
 *.key
 *.pem
-*.p12
+*.p12  
+
